@@ -15,9 +15,8 @@
   <a href="mailto:atul30march@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
-
-## 🧑‍💻 About Me
+<!-- Gradient Section Header: About Me -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:d946ef&height=45&text=About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=55" alt="About Me"/>
 
 I'm a **Full Stack .NET Developer** from India with **4+ years of experience** building scalable enterprise applications. I enjoy designing robust backend systems, developing intuitive user interfaces, and solving complex business problems through clean, maintainable code.
 
@@ -28,8 +27,6 @@ My experience spans enterprise solutions for **healthcare, warehouse management,
 - 🔐 Built secure **RBAC systems** with audit logging and approval workflows
 - 🔄 Integrated **SAP PI** with enterprise applications
 - 🌱 Currently learning: **Docker & Kubernetes, Microservices, Clean Architecture, Azure, AI/LLM integration in .NET**
-
----
 
 <!-- Gradient Section Header: Tech Stack -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:d946ef&height=45&text=Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=55" alt="Tech Stack"/>
@@ -46,9 +43,8 @@ My experience spans enterprise solutions for **healthcare, warehouse management,
   <img src="https://img.shields.io/badge/Jira-8b5cf6?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
----
-
-## 📊 GitHub Stats
+<!-- Gradient Section Header: GitHub Stats -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:d946ef&height=45&text=GitHub%20Stats&fontSize=22&fontColor=ffffff&fontAlignY=55" alt="GitHub Stats"/>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=atul30march&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6" alt="GitHub Stats"/>
@@ -57,8 +53,6 @@ My experience spans enterprise solutions for **healthcare, warehouse management,
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=atul30march&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="GitHub Streak"/>
 </p>
-
----
 
 <p align="center"><i>"Code with purpose, build with passion, and keep learning every day."</i> 🚀</p>
 
