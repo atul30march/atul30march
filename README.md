@@ -1,21 +1,151 @@
-# 💫 About Me:
-# 👋 Hi, I'm Atul Kumar Maurya<br><br>💻 I'm a **Full Stack .NET Developer** from India with **4+ years of experience** building scalable enterprise applications using **ASP.NET Core, C#, SQL Server, React, and modern web technologies**.<br><br>I enjoy designing robust backend systems, developing intuitive user interfaces, and solving complex business problems through clean, maintainable code. My experience includes developing enterprise solutions for healthcare, warehouse management, and automation systems with a strong focus on performance, security, and scalability.<br><br>### 🚀 What I Work With<br><br>* 🔹 ASP.NET Core MVC & Web API<br>* 🔹 C# & .NET Framework<br>* 🔹 React.js, JavaScript, jQuery<br>* 🔹 SQL Server & Entity Framework Core<br>* 🔹 REST APIs & JSON<br>* 🔹 Azure & AWS<br>* 🔹 Git, GitHub & CI/CD<br>* 🔹 HTML5, CSS3, Bootstrap<br>* 🔹 Role-Based Access Control (RBAC)<br>* 🔹 Performance Optimization & SQL Tuning<br><br>### 🌱 Currently Learning<br><br>* Docker & Kubernetes<br>* Microservices Architecture<br>* Clean Architecture<br>* Advanced Azure Services<br>* AI/LLM Integration in .NET Applications<br><br>### 🏆 Highlights<br><br>* ✔️ Developed enterprise applications for ITC Limited.<br>* ✔️ Optimized SQL queries, significantly improving application performance.<br>* ✔️ Built secure RBAC systems with audit logging and approval workflows.<br>* ✔️ Integrated SAP PI with enterprise applications.<br>* ✔️ Passionate about writing clean, scalable, and maintainable code.<br><br>### 💡 Interests<br><br>* Enterprise Application Development<br>* Cloud Computing<br>* Artificial Intelligence & LLMs<br>* Software Architecture<br>* Automation & DevOps<br><br>### 📫 Connect With Me<br><br>* 📧 **Email:** [atul30march@gmail.com](mailto:atul30march@gmail.com)<br>* 💼 **LinkedIn:** *([Add your LinkedIn profile here](https://linkedin.com/in/www.linkedin.com/in/atulkumarmaurya))*<br>* 🌐 **Portfolio:** *(Add your portfolio website if available)*<br><br>> *"Code with purpose, build with passion, and keep learning every day."* 🚀<br>
+# 💫 About Me
 
+<h1 align="center">Hi 👋, I'm Atul Kumar Maurya</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/atulkumarmaurya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@atul30march) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@atulkumarmaurya9520) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atul30march@gmail.com) 
+<h3 align="center">
+Full Stack .NET Developer | ASP.NET Core | C# | SQL Server | React
+</h3>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=atul30march&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=atul30march&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=atul30march&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Passionate about building scalable enterprise applications, designing clean architectures, and solving real-world business problems through modern software development.
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=atul30march&label=Profile%20Views&color=0e75b6&style=flat" alt="atul30march" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=atul30march&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💼 Full Stack .NET Developer with **4+ years** of experience in enterprise application development.
+- 🔭 Currently working on **ASP.NET Core MVC**, **REST APIs**, and **SQL Server** based enterprise applications.
+- 🌱 Currently learning **Docker**, **Kubernetes**, **Microservices**, **Azure**, and **System Design**.
+- 💡 Passionate about **Clean Architecture**, **Performance Optimization**, **Cloud Computing**, and **AI/LLM Integration**.
+- 🎯 Aspiring to become a **Solution Architect** specializing in the Microsoft technology stack.
+- ⚡ I enjoy solving challenging business problems with scalable, secure, and maintainable software solutions.
+
+---
+
+## 🏆 Professional Highlights
+
+- 🚀 Developed enterprise applications for **ITC Limited**
+- 🔐 Implemented secure **Role-Based Access Control (RBAC)**
+- ⚡ Optimized SQL queries to improve application performance
+- 🌐 Developed scalable **RESTful APIs**
+- 🔄 Integrated **SAP PI** with enterprise applications
+- 📝 Built comprehensive **Audit Logging** and **Approval Workflow** systems
+- 📊 Experience in **Healthcare**, **Warehouse Management**, and **Business Automation** domains
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Backend
+
+- ASP.NET Core MVC
+- ASP.NET Web API
+- C#
+- .NET Framework
+- Entity Framework Core
+
+### 🎨 Frontend
+
+- React
+- JavaScript
+- jQuery
+- HTML5
+- CSS3
+- Bootstrap
+- DataTables
+
+### 🗄 Database
+
+- Microsoft SQL Server
+- Entity Framework
+- Stored Procedures
+- SQL Query Optimization
+
+### ☁ Cloud & DevOps
+
+- Microsoft Azure
+- AWS
+- Git
+- GitHub
+- CI/CD
+- Docker *(Learning)*
+
+### 🛠 Other Technologies
+
+- REST APIs
+- JSON
+- RBAC
+- SAP PI Integration
+- Performance Optimization
+- LLM Integration
+- Agile / Scrum
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:atul30march@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/atulkumarmaurya">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/atul30march">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@atul30march">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@atulkumarmaurya9520">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=atul30march&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=atul30march&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atul30march&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=atul30march&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## ✍️ Dev Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+## 🚀 Current Focus
+
+- 🔹 ASP.NET Core 8
+- 🔹 Clean Architecture
+- 🔹 Microservices
+- 🔹 Docker & Kubernetes
+- 🔹 Azure Cloud
+- 🔹 System Design
+- 🔹 Performance Optimization
+- 🔹 AI & LLM Integration
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
