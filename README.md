@@ -31,45 +31,37 @@ My experience spans enterprise solutions for **healthcare, warehouse management,
 
 ---
 
-## 🛠️ Tech Stack
+<!-- Gradient Section Header: Tech Stack -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:d946ef&height=60&text=🛠️%20Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=52" alt="Tech Stack"/>
 
 <div align="center">
 
-**Backend**
+### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/Entity%20Framework-6C3483?style=for-the-badge&logo=nuget&logoColor=white" alt="Entity Framework"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="Backend icons"/>
+<br/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/Entity%20Framework-8b5cf6?style=flat-square&logo=nuget&logoColor=white" alt="Entity Framework"/>
+<img src="https://img.shields.io/badge/REST%20API-6366f1?style=flat-square&logo=swagger&logoColor=white" alt="REST API"/>
 
-**Frontend**
+### 🎨 Frontend
 
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,js,jquery,html,css,bootstrap&theme=dark" alt="Frontend icons"/>
 
-**Database**
+### 🗄️ Database
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
-**Cloud & DevOps**
+### ☁️ Cloud & DevOps
 
-<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions&theme=dark" alt="Cloud and DevOps icons"/>
 
-**Tools**
+### 🧰 Tools
 
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-<img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Tools icons"/>
+<br/>
+<img src="https://img.shields.io/badge/Swagger-6366f1?style=flat-square&logo=swagger&logoColor=white" alt="Swagger"/>
+<img src="https://img.shields.io/badge/Jira-8b5cf6?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
 
 </div>
 
