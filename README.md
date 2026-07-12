@@ -32,51 +32,30 @@ My experience spans enterprise solutions for **healthcare, warehouse management,
 ---
 
 <!-- Gradient Section Header: Tech Stack -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:d946ef&height=60&text=🛠️%20Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=52" alt="Tech Stack"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:d946ef&height=45&text=Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=55" alt="Tech Stack"/>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,jquery,html,css,bootstrap,azure,aws,docker,githubactions,git,github,postman&theme=dark&perline=8" alt="Tech stack icons"/>
+</p>
 
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="Backend icons"/>
-<br/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/Entity%20Framework-8b5cf6?style=flat-square&logo=nuget&logoColor=white" alt="Entity Framework"/>
-<img src="https://img.shields.io/badge/REST%20API-6366f1?style=flat-square&logo=swagger&logoColor=white" alt="REST API"/>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,jquery,html,css,bootstrap&theme=dark" alt="Frontend icons"/>
-
-### 🗄️ Database
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions&theme=dark" alt="Cloud and DevOps icons"/>
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Tools icons"/>
-<br/>
-<img src="https://img.shields.io/badge/Swagger-6366f1?style=flat-square&logo=swagger&logoColor=white" alt="Swagger"/>
-<img src="https://img.shields.io/badge/Jira-8b5cf6?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework-8b5cf6?style=flat-square&logo=nuget&logoColor=white" alt="Entity Framework"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Swagger-6366f1?style=flat-square&logo=swagger&logoColor=white" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Jira-8b5cf6?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=atul30march&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=atul30march&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=atul30march&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&layout=compact" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=atul30march&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=atul30march&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&layout=compact" alt="Top Languages"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=atul30march&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="GitHub Streak"/>
 </p>
 
 ---
